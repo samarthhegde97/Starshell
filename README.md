@@ -4,10 +4,10 @@
 
 # [!WARNING]
 This is a legit hacking tool. Doing illegal activity will be captured.
-Starshell is designed for ethical security auditing and educational research. The developer assumes no responsibility for misuse. Ensure you have explicit written permission before testing any network or system.
+Starshell is designed for ethical hacking and educational research. The developer assumes no responsibility for misuse. Ensure you have explicit written permission before testing any network or system.
 
 # 📖 About Starshell
-Starshell is a modular command-line framework that serves as an all-in-one hub for security operations. It bridges the gap between Windows and Linux, allowing operators to conduct professional-grade network diagnostics and security auditing directly from a unified interface.
+Starshell is a modular command-line framework that serves as an all-in-one hub for security operations. It bridges the gap between Windows and Linux, allowing operators to conduct professional-grade network hacking and hacking directly from a unified interface.
 
 # Key Features
 Operator Session Management: Tracks activity and session data via a secure local database.
@@ -24,10 +24,12 @@ Follow these steps exactly in your PowerShell (Run as Administrator):
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
+*no need if you already have wsl and enabled it*
+
 # 2. RESTART YOUR COMPUTER NOW BEFORE PROCEEDING
 
 # 🚀 How to Start Ethical Auditing
-Once you launch Starshell_v1.exe, follow these steps to begin:
+Once you launch Starshell_v1.0.0.exe, follow these steps to begin:
 
 Authenticate: Create your operator profile when prompted. This maintains your logs and history.
 
