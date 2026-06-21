@@ -3,8 +3,8 @@
 # ==================================================
 
 # [!WARNING]
-This is a legit security tool. Doing illegal activity will be captured.
-Starshell is designed strictly for ethical security auditing and educational research. The developer assumes no responsibility for misuse. Ensure you have explicit written permission before testing any network or system.
+This is a legit hacking tool. Doing illegal activity will be captured.
+Starshell is designed for ethical security auditing and educational research. The developer assumes no responsibility for misuse. Ensure you have explicit written permission before testing any network or system.
 
 # 📖 About Starshell
 Starshell is a modular command-line framework that serves as an all-in-one hub for security operations. It bridges the gap between Windows and Linux, allowing operators to conduct professional-grade network diagnostics and security auditing directly from a unified interface.
